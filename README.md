@@ -6,6 +6,8 @@
     [ ] Ruby on Rails
     [ ] Express + Koajs
     [ ] Scala + Play framework  
+    [ ] Ember
+    [ ] Backbone
 
 ### Learn thoroughly
 

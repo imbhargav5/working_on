@@ -3,7 +3,7 @@
 ### Projects I am working on 
 
 #### Learn programming
-A website where programming can be learnt for free forever. I don't promise all the answers, just a place to begin with. 
+A website where programming can be learnt for free forever. I don't promise all the answers, just a place to begin at. 
 
 
 ### Must work on

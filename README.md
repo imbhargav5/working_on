@@ -1,16 +1,13 @@
 # tolearn
 
-### 4 - example apps
+### Basics
 
-    [ ] Django
+    [x] Django
     [ ] Ruby on Rails
-    [ ] Express + Koajs
-    [ ] Scala + Play framework  
-    [ ] Ember
-    [ ] Backbone
-
-### Learn thoroughly
-
+    [x] Express
+    [x] Scala + Play framework  
+    [x] Ember
+    [x] Backbone
     [ ] Node
     [ ] Wp-calypso
     [ ] git commands
@@ -24,8 +21,8 @@
 
 ### Github projects
 
-    [ ] Cricket scraping
-    [ ] react yeoman generator
+    [x] Cricket scraping
+    [x] react yeoman generator
 
 ### Contribute to
 

@@ -11,7 +11,7 @@ A website where programming can be learnt for free forever. I don't promise all 
 - [x] Cricket scraping
 - [x] react yeoman generator
 
-### I Contribute occassionally to
+### I contribute occassionally to
 
 - [x] wp-calypso
 - [ ] css-next

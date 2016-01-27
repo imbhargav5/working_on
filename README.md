@@ -2,14 +2,14 @@
 
 ### Projects I am working on 
 
-#### Learn programming
-A website where programming can be learnt for free forever. I don't promise all the answers, just a place to begin at. 
+**Learn programming**
+    A website where programming can be learnt for free forever. I don't promise all the answers, just a place to begin at. 
 
 
-### Must work on
+### Have worked on 
 
 - [x] Cricket scraping
-- [x] react yeoman generator
+- [x] react yeoman generator - ***generator-react-babel***
 
 ### I contribute occassionally to
 

@@ -1,37 +1,23 @@
-# tolearn
+# Working On
 
-### Basics
+### Projects I am working on 
 
-- [ ] Django
-
-- [ ] Ruby on Rails
-- [x] Express
-- [x] Scala + Play framework  
-- [x] Ember
-- [x] Backbone
-- [ ] Node
-- [ ] Wp-calypso
-- [ ] git commands
-- [ ] bash commands
-- [ ] Scss , Sass
-- [ ] DOM API
-- [ ] window.location, window.navigator etc
-- [ ] websockets, webworkers, service workers
-- [ ] es7
+#### Learn programming
+A website where programming can be learnt for free forever. I don't promise all the answers, just a place to begin with. 
 
 
-### Github projects
+### Must work on
 
 - [x] Cricket scraping
 - [x] react yeoman generator
 
-### Contribute to
+### I Contribute occassionally to
 
-- [ ] wp-calypso
+- [x] wp-calypso
 - [ ] css-next
 - [ ] Mozilla Docs
 - [ ] Github organization projects
-- [ ] React
+- [x] React
 - [ ] Redux
 - [ ] formsy-react
 - [ ] diffhtml

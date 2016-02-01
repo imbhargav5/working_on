@@ -10,6 +10,7 @@
 
 - [x] Cricket scraping
 - [x] react yeoman generator - ***generator-react-babel***
+- [x] React pong
 
 ### I contribute occassionally to
 
